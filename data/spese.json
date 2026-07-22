@@ -46,5 +46,26 @@
       "Filippo": 30
     },
     "gruppoId": "gmrwjayw8wj93wd"
+  },
+  {
+    "nome": "Carlo",
+    "descrizione": "spesa",
+    "importo": 40,
+    "partecipanti": [],
+    "gruppoId": "gmrwjh7i74vu09e"
+  },
+  {
+    "nome": "Fabrizio",
+    "descrizione": "spesa",
+    "importo": 60,
+    "partecipanti": [],
+    "gruppoId": "gmrwjh7i74vu09e"
+  },
+  {
+    "nome": "Filippo",
+    "descrizione": "spesa",
+    "importo": 10,
+    "partecipanti": [],
+    "gruppoId": "gmrwjh7i74vu09e"
   }
 ]
